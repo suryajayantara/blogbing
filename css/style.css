@@ -1,0 +1,22 @@
+.imgSample {
+    width: 100%;
+    height: 40rem;
+}
+.imgSample img{
+    margin-top: 5rem;
+    height: 60%;
+}
+.text-samp {
+    margin-left: 10rem;
+}
+.inner-line {
+    width: 100%;
+    border: 1px solid #333333;
+}
+.title-line {
+    width: 60%;
+    border: 2px solid #333333;
+}
+.listing {
+    margin-top: 4rem;
+}
